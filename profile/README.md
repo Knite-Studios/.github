@@ -1,4 +1,4 @@
-[![Header](../assets/KS_Banner_small.png "Header")](https://discord.gg/xSxFxC9NVh)
+[![Header](https://github.com/Knite-Studios/.github/blob/main/assets/KS_Banner_small.png "Header")](https://discord.gg/xSxFxC9NVh)
 
 # Welcome to Knite Studios!
 
