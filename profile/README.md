@@ -1,4 +1,4 @@
-[![Header](./assets/KS_Banner_small.png "Header")](https://discord.gg/xSxFxC9NVh)
+[![Header](../assets/KS_Banner_small.png "Header")](https://discord.gg/xSxFxC9NVh)
 
 # Welcome to Knite Studios!
 
