@@ -2,7 +2,6 @@
 
 # Welcome to Smooth Brain!
 
-Knite Studios・Skill Issue.
 Hey there! You've stumbled upon Smooth Brain. Who are we? Just a bunch of ambitious industry professionals who decided it'd be cool to come together, brainstorm the wildest ideas, and bring them to life without involving all the weird predatory monetization into the mix. Keep games fun, old-school style. You buy once, enjoy forever. Yep, good ol' gaming without trying to squeeze the player for everything they are worth!
 
 ## Prioritizing creating lasting memories Over Earning 
